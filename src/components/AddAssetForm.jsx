@@ -1,4 +1,4 @@
-import { Select, Space, Typography, Flex, Divider, Form, InputNumber, Button , DatePicker, Result} from "antd";
+import { Select, Space, Typograph, Divider, Form, InputNumber, Button , DatePicker, Result} from "antd";
 import { useRef, useState } from "react";
 import { useCrypto } from "../context/crypto-context";
 import CoinInfo from "./CoinInfo";
